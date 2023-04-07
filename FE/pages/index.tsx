@@ -27,7 +27,6 @@ const Home: NextPage = () => {
       <FriendsModal />
 
       {/* 인증서 발급 */}
-      <CertificateModal />
     </Container>
   );
 };
