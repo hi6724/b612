@@ -44,7 +44,6 @@ function Planet() {
       {/* 친구 목록 조회 */}
       <FriendsModal />
       {/* 인증서 발급 */}
-      <CertificateModal />
     </Container>
   );
 }
